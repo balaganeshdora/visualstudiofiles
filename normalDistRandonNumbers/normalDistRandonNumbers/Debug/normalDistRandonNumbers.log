@@ -1,5 +1,11 @@
-﻿Build started 14.05.2014 15:48:11.
+﻿Build started 20.05.2014 10:10:22.
+     1>Project "C:\work\visualstudiofiles\normalDistRandonNumbers\normalDistRandonNumbers\normalDistRandonNumbers.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\work\visualstudiofiles\normalDistRandonNumbers\Debug\normalDistRandomNumbers.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\work\libxl-3.5.4.1\lib" libxl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\work\visualstudiofiles\normalDistRandonNumbers\Debug\normalDistRandomNumbers.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\work\visualstudiofiles\normalDistRandonNumbers\Debug\normalDistRandomNumbers.lib" /MACHINE:X86 Debug\normalDistRandomNumbers.obj
+         Debug\stdafx.obj
+         normalDistRandonNumbers.vcxproj -> C:\work\visualstudiofiles\normalDistRandonNumbers\Debug\normalDistRandomNumbers.exe
+     1>Done Building Project "C:\work\visualstudiofiles\normalDistRandonNumbers\normalDistRandonNumbers\normalDistRandonNumbers.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.03
+Time Elapsed 00:00:00.36
